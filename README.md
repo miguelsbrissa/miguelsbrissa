@@ -1,6 +1,6 @@
 ### Olá sou Miguel Sbrissa, Desenvolvedor jr
 - 🔭 Atualmente trabalho com back-end e front-end
-- 📚 Estudando Python
+- 📚 Estudando Node
 - 💬 Contate-me no e-mail: miguelsbrissa@hotmail.com
 ##
 <div>
